@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi, I'm Rafael 👋
 
-<!--
-**Ronieva/Ronieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics, Robotics and Mechatronics Engineer  
+MSc in Mechatronics Engineering | University of Málaga  
+MSc in Robotics and Process Automation | Universidad Internacional de Valencia (VIU) 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Main Interests
+- Robotics and autonomous systems
+- Computer vision and sensor-based perception
+- Embedded systems and real-time control
+- Applied AI and machine learning
+
+---
+
+### 🚗 Featured Project
+**Under-Vehicle Inspection Robot (Master’s Thesis)**  
+Teleoperated robotic platform with real-time RGB-D perception, object detection,
+and depth-based positioning.
+
+🔗 https://github.com/Ronieva/under-vehicle-inspection-robot
+
+---
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/rafael-onieva-molina-4b469423a/
+
