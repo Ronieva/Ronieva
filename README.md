@@ -34,6 +34,14 @@ Designed with a focus on clean architecture, performance measurement and CPU-eff
 
 ---
 
+**Mobility Data Warehouse (SQL, PostgreSQL, Docker)**
+Beginner-friendly data engineering pipeline implementing a layered warehouse architecture (raw → staging → marts).
+Includes SQL transformations, aggregated marts and data quality tests designed to simulate a real ETL workflow.
+
+🔗 https://github.com/Ronieva/mobility-warehouse-sql
+
+
+---
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/rafael-onieva-molina-4b469423a/
 
