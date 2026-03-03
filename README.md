@@ -42,6 +42,16 @@ Includes SQL transformations, aggregated marts and data quality tests designed t
 
 
 ---
+
+**AI-Powered CV–Job Alignment System (LLM + RAG Project)**
+End-to-end backend system that ingests job descriptions, extracts structured skills using LLMs, computes CV–job compatibility scores, ranks opportunities by alignment, and rewrites CV bullets for improved ATS matching.
+Built with a modular service-oriented architecture using FastAPI, LangChain, ChromaDB and OpenAI embeddings.
+
+🔗 https://github.com/Ronieva/rag-career-copilot
+
+
+---
+
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/rafael-onieva-molina-4b469423a/
 
